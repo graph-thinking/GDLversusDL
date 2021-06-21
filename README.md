@@ -19,14 +19,26 @@ https://github.com/rusty1s/pyg_autoscale
 
 https://arxiv.org/abs/2106.05609
 
-GDL overview (links on Graph embeddings and Graph convolutional networks at the end of the article)
+## GDL overview (links on Graph embeddings and Graph convolutional networks at the end of the article)
 https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d
 
-Word2Vec overview (for Euclidian text analysis)
+## Word2Vec overview (for Euclidian text analysis)
 https://wiki.pathmind.com/word2vec
 
-Very good example of word embedding and NN for text anaysis. Using Stack overflow dataset (60000 user's questions): https://towardsdatascience.com/a-guide-to-word-embeddings-8a23817ab60f
+## Very good example of word embedding and NN for text anaysis. Using Stack overflow dataset (60000 user's questions): 
+https://towardsdatascience.com/a-guide-to-word-embeddings-8a23817ab60f
 
-Another suggestion for the text to be used as Dataset (this is only an articole, so it's much smaller): BitCoin White Paper by Satomi Nakamoto. Find it here: https://whitepaper.io/document/0/bitcoin-whitepaper
+## Word vectors => graphs: interesting sources:
+https://github.com/anvaka/word2vec-graph
+
+https://www.frontiersin.org/articles/10.3389/fams.2018.00041/full
+
+https://neo4j.com/blog/bring-order-to-chaos-graph-based-journey-textual-data-to-wisdom/
+
+https://graphaware.com/neo4j/2016/07/07/mining-and-searching-text-with-graph-databases.html
+
+https://github.com/uhh-lt/sensegram
+
+https://www.kdnuggets.com/2021/06/graph-based-text-similarity-method-named-entity-information-nlp.html
 
 
