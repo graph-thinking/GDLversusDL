@@ -19,11 +19,20 @@ https://github.com/rusty1s/pyg_autoscale
 
 https://arxiv.org/abs/2106.05609
 
-## GDL overview (links on Graph embeddings and Graph convolutional networks at the end of the article)
+## GDL overview 
 https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d
+
+## Graph embedding
+https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4
+
+## Graph convolutional networks for GDL
+https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008
 
 ## Word2Vec overview (for Euclidian text analysis)
 https://wiki.pathmind.com/word2vec
+
+## Node2Vex example (for GDL)
+https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef
 
 ## Very good example of word embedding and NN for text anaysis. Using Stack overflow dataset (60000 user's questions): 
 https://towardsdatascience.com/a-guide-to-word-embeddings-8a23817ab60f
